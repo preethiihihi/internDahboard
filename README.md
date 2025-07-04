@@ -21,8 +21,3 @@ A responsive internal dashboard mockup designed for interns to manage team infor
 - React Router for page navigation
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repo
-
