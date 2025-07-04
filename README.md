@@ -26,6 +26,3 @@ A responsive internal dashboard mockup designed for interns to manage team infor
 
 ### 1. Clone the repo
 
-```bash
-git clone https://github.com/your-username/pgt-team-dashboard.git
-cd pgt-team-dashboard
