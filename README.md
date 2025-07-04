@@ -22,6 +22,10 @@ A responsive internal dashboard mockup designed for interns to manage team infor
 
 ---
 
+take clone and 
+- npm install
+- npm run dev 
+
 https://github.com/user-attachments/assets/b52019f2-6173-4de9-b93d-b39eea38597b
 
 
